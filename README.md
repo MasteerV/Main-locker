@@ -11,6 +11,9 @@ el sistema operativo, dejando el pc inutilizable.
 Este software ha sido probado con antivirus como Windows Defender y McAfee siendo indetectable a estos, tanto en
 la parte estática como dinámica.
 
+En caso de introducir la Key correcta se cerrará la ventana y se generará una vacuna que se tendrá que ejecutar como administrador 
+eliminando el programa y la persistencia.
+
 Usar con precaución.
 
 Si quieres la contraseña para descomprimir el archivo contáctame MasteerV@protonmail.com
