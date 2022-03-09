@@ -1,10 +1,10 @@
 # Main-locker
 [+] Bloqueador de pantalla persistente para Windows 10
 
-Este virus cambiará siempre esta pantalla en primer plano sin poder cerrarla, además se hará persistente
+Este virus mostrará siempre esta pantalla en primer plano sin poder cerrarla, además se hará persistente
 añadiendo claves al registro.
 
-Una vez ejecutado mudará de nombre y de localización además de desabilitar funciones básicas como administrador 
+Una vez ejecutado cambiará de nombre y de localización además de desabilitar funciones básicas como administrador 
 de tareas, configuración, forzado de salida, etc. Cada vez que la víctima inicie Windows este se iniciará con 
 el sistema operativo, dejando el pc inutilizable.
 
