@@ -13,4 +13,4 @@ Usar con precaución.
 
 Si quieres la contraseña para descomprimir el archivo contáctame MasteerV@protonmail.com
 
-![main_locker](https://user-images.githubusercontent.com/94006629/155329300-afd84992-427d-4816-95ed-88c27ebb9670.jp
+![main_locker](https://user-images.githubusercontent.com/94006629/155329300-afd84992-427d-4816-95ed-88c27ebb9670.jpg)
